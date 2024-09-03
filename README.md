@@ -35,8 +35,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github.com/ruandaviv/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+<img src="https://raw.githubusercontent.com/ruandaviv/ruandaviv/output/snake.svg" alt="Snake animation" />
+
 
 ###
