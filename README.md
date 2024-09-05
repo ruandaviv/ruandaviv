@@ -2,7 +2,7 @@
 
 
 
-**Languages:**  
+**Linguagens:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
@@ -11,7 +11,7 @@
 <br/>
 <div>
 
-**Testing Tools:**  
+**Ferramentas de Teste:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
@@ -20,7 +20,7 @@
 <br/>
 <div>
 
-**Technology being learned**
+**Tecnologias sendo aprendidas:**
 
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/374049/robotframework.svg"></code>
